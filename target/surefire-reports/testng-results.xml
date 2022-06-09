@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" ignored="0" total="4" passed="4">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Suite" duration-ms="17" started-at="2022-06-07T07:05:19Z" finished-at="2022-06-07T07:05:19Z">
+    <groups>
+    </groups>
+    <test name="Test" duration-ms="17" started-at="2022-06-07T07:05:19Z" finished-at="2022-06-07T07:05:19Z">
+      <class name="qaclickacademy.Mavenjava.RestAPITest">
+        <test-method status="PASS" signature="Swiggy()[pri:0, instance:qaclickacademy.Mavenjava.RestAPITest@4c15e7fd]" name="Swiggy" duration-ms="5" started-at="2022-06-07T12:35:19Z" finished-at="2022-06-07T12:35:19Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- Swiggy -->
+        <test-method status="PASS" signature="Zomato()[pri:0, instance:qaclickacademy.Mavenjava.RestAPITest@4c15e7fd]" name="Zomato" duration-ms="0" started-at="2022-06-07T12:35:19Z" finished-at="2022-06-07T12:35:19Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- Zomato -->
+      </class> <!-- qaclickacademy.Mavenjava.RestAPITest -->
+      <class name="qaclickacademy.Mavenjava.AppiumTest">
+        <test-method status="PASS" signature="Native_App()[pri:0, instance:qaclickacademy.Mavenjava.AppiumTest@1e730495]" name="Native_App" duration-ms="0" started-at="2022-06-07T12:35:19Z" finished-at="2022-06-07T12:35:19Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- Native_App -->
+        <test-method status="PASS" signature="IOS_App()[pri:0, instance:qaclickacademy.Mavenjava.AppiumTest@1e730495]" name="IOS_App" duration-ms="0" started-at="2022-06-07T12:35:19Z" finished-at="2022-06-07T12:35:19Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- IOS_App -->
+      </class> <!-- qaclickacademy.Mavenjava.AppiumTest -->
+    </test> <!-- Test -->
+  </suite> <!-- Suite -->
+</testng-results>
